@@ -16,6 +16,9 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with Sick Beard.  If not, see <http://www.gnu.org/licenses/>.
+# 
+# Testy-test
+#
 
 import sys
 if sys.version_info < (2, 5):
